@@ -1,5 +1,5 @@
-The-Battle-of-Neighborhoods \n
-PIZZA IN NEW YORK OR SAN FRANCISCO?
+The-Battle-of-Neighborhoods  
+PIZZA IN NEW YORK OR SAN FRANCISCO?  
 Data Science Capstone - IBM Data Science Professional Certificate on Coursera
 Introduction
 We all love pizza! Right? This project focuses on comparing pizza places in New York to San Francisco. Imagine your choice of which city to visit depends on which city has the best pizza. The decision is to choose a place with a high density of Pizza places as most of people love to change places where they eat pizza from until they find their best and favorite place. To solve this problem, an analysis of the Pizza stores’ locations in New York and San Francisco will be conducted to find the best place for anyone who loves changing pizza places and anyone who wants to find the best place from . 
